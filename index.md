@@ -1,3 +1,10 @@
+---
+layout: post
+title: Welcome to my blog!
+lang: en
+lang-ref: welcome-to-my-blog
+---
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/test111191/testmd/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
